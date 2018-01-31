@@ -1,0 +1,19 @@
+/* this selects the body tag */
+body{
+  background-color: black;
+  color: white;
+}
+
+/* this selects the div tags */
+div{
+  background-color: white;
+  color: black;
+  margin:auto;
+  width: 80%;
+}
+
+/* this selects the heading one tags */
+h1{
+  padding: 50px;
+  letter-spacing: 5px;
+}
